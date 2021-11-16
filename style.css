@@ -15,7 +15,7 @@ h4,
 h5,
 h6,
 span {
-  color: #242424;
+  color: #2a623d;
   text-align: center;
   line-height: 1.25;
 }
@@ -56,7 +56,7 @@ li {
 }
 
 section:nth-child(even) {
-  background-color: #f8f8f8;
+  background-color: #2a623d;
 }
 
 .section__title {
