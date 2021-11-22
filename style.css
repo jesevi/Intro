@@ -1,4 +1,3 @@
-/* add this color to you title, name, etc #2a623d */ 
 @import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Roboto:wght@100;300;700&display=swap");
 
 * {
@@ -6,6 +5,7 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  background-color: #d8d8d8;
 }
 
 h1,
@@ -52,11 +52,11 @@ li {
 }
 
 .text--purple {
-  color: #5d3eff;
+  color: #297670;
 }
 
 section:nth-child(even) {
-  background-color: #2a623d;
+  background-color: #fff;
 }
 
 .section__title {
@@ -81,13 +81,13 @@ nav {
 
 .nav__link--anchor {
   margin: 0 12px;
-  color: #242424;
+  color: #000;
   text-decoration: none;
   font-weight: 700px;
 }
 
 .nav__link--anchor-primary {
-  background-color: #6030b1;
+  background-color: #536DFE;
   padding: 8px 20px;
   border-radius: 50px;
   color: #fff;
@@ -100,7 +100,7 @@ nav {
 
 .personal__logo {
   font-size: 24px;
-  color: #6030b1;
+  color: #536DFE;
   margin: 0 12px;
   font-weight: bold;
 }
