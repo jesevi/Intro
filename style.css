@@ -1,3 +1,4 @@
+/* add this color to you title, name, etc #2a623d */ 
 @import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Roboto:wght@100;300;700&display=swap");
 
 * {
@@ -5,7 +6,7 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  background-color: #d8d8d8;
+  
 }
 
 h1,
@@ -52,7 +53,7 @@ li {
 }
 
 .text--purple {
-  color: #297670;
+  color: #747474;
 }
 
 section:nth-child(even) {
@@ -209,3 +210,4 @@ nav {
   transform: scale(0);
   transition: all 300ms;
 }
+
