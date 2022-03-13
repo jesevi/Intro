@@ -3,6 +3,7 @@
 // user_RaXSBymvgXiaVL6J2Eiwk
 
 let isModelOpen = false;
+
 let contrastToggle = false;
 const scaleFactor = 1 / 20;
 
