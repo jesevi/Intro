@@ -1,6 +1,7 @@
 // template_3vi7kcb
 // service_6gs9mb9
 
+
 // user_RaXSBymvgXiaVL6J2Eiwk
 
 let isModelOpen = false;
@@ -25,6 +26,7 @@ function moveBackground(event) {
 function toggleContrast() {
   contrastToggle = !contrastToggle;
   if (contrastToggle) {
+/
     document.body.classList += " dark-theme"
   }
   else {
