@@ -8,6 +8,7 @@ let isModelOpen = false;
 
 
 let contrastToggle = false;
+
 const scaleFactor = 1 / 20;
 
 function moveBackground(event) {
